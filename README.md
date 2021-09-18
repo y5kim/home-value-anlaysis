@@ -1,2 +1,2 @@
-# home-value-anlaysis
-US home and rental value analysis &amp; prediction
+# US Home and Rental Values Analysis & Prediction
+FA2020 ECE225 Project 
